@@ -71,7 +71,7 @@ https://github.com/jpatil-bit/diabetes-eda-module-20/blob/main/data/diabetic_dat
 ---
 
 ##  Analysis and hypothesis
-Key Findings
+## Key Findings
 
 Certain clinical attributes strongly influence diabetes risk
 
@@ -79,7 +79,7 @@ Feature scaling significantly impacts distance-based models such as KNN
 
 Simpler, interpretable models can perform competitively with complex models
 
-Preventive Insights
+## Preventive Insights
 
 Based on model interpretation and feature importance, individuals at higher risk may benefit from:
 
@@ -93,6 +93,9 @@ Early clinical intervention
 
 This supports a predictive and preventive healthcare approach.
 
+## Jupyter File
+https://github.com/jpatil-bit/diabetes-prediction-engine-module-24/blob/main/predict-diabetes_updated.ipynb
+
 ##  Getting Started
 
 To run this project locally, follow the steps below:
@@ -105,4 +108,4 @@ Ensure you have Python 3.x installed and the necessary dependencies:
 
    ```bash
 
-   git clone https://github.com/jpatil-bit/diabetes-eda-module-20.git
+   git clone https://github.com/jpatil-bit/diabetes-prediction-engine-module-24.git
