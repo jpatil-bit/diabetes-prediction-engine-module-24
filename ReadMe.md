@@ -30,7 +30,7 @@ This analysis demonstrates how historical hospital data can be used to identify 
 ---
 
 ## Dataset
-https://github.com/jpatil-bit/diabetes-eda-module-20/blob/main/data/diabetic_data.csv
+https://github.com/jpatil-bit/diabetes-prediction-engine-module-24/blob/main/data/diabetic_data.csv
 
 ### Key Features:
 * Age
