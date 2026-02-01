@@ -96,6 +96,10 @@ This supports a predictive and preventive healthcare approach.
 ## Jupyter File
 https://github.com/jpatil-bit/diabetes-prediction-engine-module-24/blob/main/predict-diabetes_updated.ipynb
 
+## Presentation - PPT file with the analysis and readout
+
+https://github.com/jpatil-bit/diabetes-prediction-engine-module-24/blob/main/Presentation/Diabetes_Readmission_Capstone_Project.pptx
+
 ##  Getting Started
 
 To run this project locally, follow the steps below:
